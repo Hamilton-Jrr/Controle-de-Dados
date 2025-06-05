@@ -1,4 +1,4 @@
-# Planilha de Controle para Declaração de Imposto de Renda
+# DIO Planilha de Controle para Declaração de Imposto de Renda
 
 ## Descrição
 Este projeto consiste na criação de uma planilha em Excel para facilitar a organização das informações necessárias para a declaração do imposto de renda. Desenvolvido com foco em praticidade e usabilidade, o objetivo é oferecer uma ferramenta simples que auxilie os usuários no controle dos dados financeiros ao longo do ano.
